@@ -2,7 +2,7 @@ import React from 'react'
 import Image from 'next/image'
 const page = () => {
   return (
-    <div className="relative h-screen flex items-center justify-center overflow-hidden">
+    <div className="relative h-screen w-full flex items-center justify-center overflow-hidden">
     
     <div className="absolute inset-0">
       <Image
